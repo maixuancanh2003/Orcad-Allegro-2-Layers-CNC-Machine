@@ -12,11 +12,11 @@ Here are images of the board from different perspectives:
 
 | View         | Image                                                  |
 |--------------|--------------------------------------------------------|
-| **BOTTOM**   | ![Bottom View](images/Bottom.png)          |
-| **FrontLeft**| ![Front Left View](images/FrontLeft.png)   |
-| **TOP**      | ![Top View](images/Top.png)                |
+| **FrontLeft**| ![Front Left View](Image/FrontLeft.jpg)   |
+| **TOP**      | ![Top View](Image/TOP.jpg)                |
+| **BOTTOM**   | ![Bottom View](Image/BOTTOM.jpg)          |
 
-> **Note:** Ensure the images are uploaded to the `images` folder in your GitHub repository and update the paths to match your actual image file names.
+
 
 ## Key Components
 
@@ -44,9 +44,9 @@ This project is designed using **OrCAD/Allegro v17.4** for schematic and PCB des
 For any questions or additional support, feel free to reach out:
 
 - **Name**: Mai Xuan Canh
-- **University**: Ho Chi Minh City University of Technology - VNU - HCM 
+- **University**: Ho Chi Minh City University of Technology (HCMUT)
 - **Major**: Control and Automation Engineering
-- **LinkedIn**: [Mai Xuan Canh's LinkedIn](https://www.linkedin.com/in/maixuancanh2003/)
+- **LinkedIn**: [Canh Mai's LinkedIn](https://www.linkedin.com/in/maixuancanh2003/)
 - **Email**: canhmai.work@gmail.com
 
 ---
