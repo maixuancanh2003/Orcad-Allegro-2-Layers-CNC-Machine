@@ -1,0 +1,352 @@
+(ExpressProject "CNCMachine"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/10/24]")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\users\admin\appdata\local\temp\library1.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\schematic_and_footprint\drill m3\drillm3.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\done_to_hcmut\cncmachine.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (IREFReportFile "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINE.csv")
+    (IREFViewOutput "0")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\cncmachine.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "FALSE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\CNCMACHINE.DRC")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\CNCMACHINE.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Vendor}\t{Part Number}\t{Manufacturer_Name}\t{Manufacturer_Part_Number}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\Vendor\tPart Number\tManufacture\tManufacturer Part Number")
+    (BOM_Include_File
+       "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\CNCMACHINE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\cncmachine.csv"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\cncmachine.drc"
+      (Type "Report"))
+    (File ".\allegro2\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro2\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro2\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro3\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro3\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro3\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro123456\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro123456\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro123456\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\cncmachine.csv"
+      (Type "Report"))
+    (File ".\cncmachine.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (PJ-035D
+      (FullPartName "PJ-035D.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\DC_254\PJ-035D.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (1N4007W-T
+      (FullPartName "1N4007W-T.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\DIODE\1N4007\1N4007W-T.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ESQ-102-48-L-S
+      (FullPartName "ESQ-102-48-L-S.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\JUMPER\1X2\ESQ-102-48-L-S.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PJ-002AH
+      (FullPartName "PJ-002AH.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\JACK DC 2\PJ-002AH.OLB")
+      (DeviceIndex "0"))
+    (TMS-101-21-G-S
+      (FullPartName "TMS-101-21-G-S.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TMS-101-21-G-S\TMS-101-21-G-S.OLB")
+      (DeviceIndex "0"))
+    (TMS-101-21-G-S_0
+      (FullPartName "TMS-101-21-G-S_0.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\CNCMACHINE.DSN")
+      (DeviceIndex "0"))
+    (1202
+      (FullPartName "1202.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\1202\1202.OLB")
+      (DeviceIndex "0"))
+    ("Drill Hole M3"
+      (FullPartName "Drill Hole M3.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\DRILL M3\DRILLM3.OLB")
+      (DeviceIndex "0"))
+    (1N4148WS
+      (FullPartName "1N4148WS.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\1N4148WS\1N4148WS.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CAP 0603\WCAP-CSGP_0603.OLB")
+      (DeviceIndex "0"))
+    (TBP02R1-381-03BE
+      (FullPartName "TBP02R1-381-03BE.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TERMINAL 381\3 PIN\TBP02R1-381-03BE.OLB")
+      (DeviceIndex "0"))
+    (5-146281-3
+      (FullPartName "5-146281-3.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\JUMPER\3PIN_254_\5-146281-3.OLB")
+      (DeviceIndex "0"))
+    (EEEHAE101UAP
+      (FullPartName "EEEHAE101UAP.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TU HOA SMD\EEEHAE101UAP.OLB")
+      (DeviceIndex "0"))
+    (MSD-1-A
+      (FullPartName "MSD-1-A.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\MICROSD-1-A\MSD-1-A.OLB")
+      (DeviceIndex "0"))
+    (FFMD-08-X-X-X
+      (FullPartName "FFMD-08-X-X-X.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\IDC\16 PIN\FFMD-08-X-X-X.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ZENER_BIDI
+      (FullPartName "ZENER_BIDI.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TVS2\SMBJ12CA-13-F.OLB")
+      (DeviceIndex "0"))
+    (A4988
+      (FullPartName "A4988.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\A4988_MODULE\A4988.OLB")
+      (DeviceIndex "0"))
+    (A4988_STEPPER_MOTOR_DRIVER_CA
+      (FullPartName "A4988_STEPPER_MOTOR_DRIVER_CARRIER_BLACK.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\A4988_STEPPER_MOTOR_DRIVER_CARRIER_BLACK\A4988_STEPPER_MOTOR_DRIVER_CARRIER_BLACK.OLB")
+      (DeviceIndex "0"))
+    (LM2596DSADJG
+      (FullPartName "LM2596DSADJG.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\LM2596\LM2596DSADJG.OLB")
+      (DeviceIndex "0"))
+    (74LVC125APW
+      (FullPartName "74LVC125APW.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\74LSNEW\74LVC125APW.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Allegro\Project\CanhMai\Lib\Schematic_And_FootPrint\dc_254")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\done_to_hcmut\cncmachine.dsn")
+      (Path "Design Resources" ".\done_to_hcmut\cncmachine.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\admin\appdata\local\temp\library1.olb")
+      (Path "Design Resources" "Library"
+         "..\lib\schematic_and_footprint\drill m3\drillm3.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\done_to_hcmut\cncmachine.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 252 0 359"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 823 24 400")
+        (Scroll "0 62")
+        (Zoom "94")
+        (Occurrence "/"))
+      (Path
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 823 24 400")
+        (Scroll "-165 -3")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MAIN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 823 24 400")
+        (Scroll "-165 -3")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CONTROL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 823 24 400")
+        (Scroll "-165 -3")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SDCARD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 823 24 400")
+        (Scroll "-165 -3")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER")))
+  (MPSSessionName "Admin")
+  (ISPCBBASICLICENSE "false"))

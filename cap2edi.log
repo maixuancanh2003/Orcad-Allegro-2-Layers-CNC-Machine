@@ -1,0 +1,41 @@
+
+Copyright (c) 2006-2019, Elgris Technologies, Inc.
+
+OrCAD Capture to EDIF 2 0 0 Schematic Conversion Program SPB 17.40_1.111 built Jul 26 2019
+
+Started on Sun Nov 10 19:07:19 2024
+
+Reading config file c:\cadence\spb_17.4\tools\capture\cap2edi.cfg
+
+orcadread :Converting file D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.DSN 
+Converting SchematicView   SCHEMATIC1 
+	Converting elements on  page POWER
+		Converting Parts
+		converting Globals of Page POWER of SchematicView SCHEMATIC1
+	Converting elements on  page MAIN
+		Converting Parts
+		converting Globals of Page MAIN of SchematicView SCHEMATIC1
+		Converting Ports of Page MAIN of SchematicView SCHEMATIC1
+	Converting elements on  page USB
+		Converting Parts
+		converting Globals of Page USB of SchematicView SCHEMATIC1
+		Converting Ports of Page USB of SchematicView SCHEMATIC1
+	Converting elements on  page CONTROL
+		Converting Parts
+		converting Globals of Page CONTROL of SchematicView SCHEMATIC1
+		Converting Ports of Page CONTROL of SchematicView SCHEMATIC1
+	Converting elements on  page SDCARD
+		Converting Parts
+		converting Globals of Page SDCARD of SchematicView SCHEMATIC1
+		Converting Ports of Page SDCARD of SchematicView SCHEMATIC1
+		Converting Buses and Nets of Schematic View SCHEMATIC1 
+
+Writing EDIF: D:\ALLEGRO\PROJECT\CANHMAI\CNCMACHINEDEVELOPBOARD\DONE_TO_HCMUT\CNCMACHINE.EDF
+.............................................................
+..............................................................
+
+
+Finished on Sun Nov 10 19:07:20 2024
+
+
+0 errors detected, 0 warnings detected

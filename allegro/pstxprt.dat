@@ -1,0 +1,700 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Nov-10-2024 at 19:11:41 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CNCMACHINE';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C19 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS975@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins975@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins975@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_10UF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS989@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins989@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins989@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'ECEA1EN470UB_0_CAPPRD500W50D630H1120_680UF/25V':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1159@CNCMACHINE.ECEA1EN470UB_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1159@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1159@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_10UF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1145@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1145@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1145@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'ECEA1EN470UB_0_CAPPRD500W50D630H1120_220UF/16V':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS961@CNCMACHINE.ECEA1EN470UB_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins961@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins961@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_10UF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS905@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins905@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins905@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1131@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1131@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1131@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_10UF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2388@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2388@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2388@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF  0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2300@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2300@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2300@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_10UF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2180@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2180@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2180@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_22PF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2356@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2356@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2356@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_22PF 0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2250@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2250@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2250@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'ECEA1EN470UB_0_CAPPRD500W50D630H1120_47UF/50V':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1705@CNCMACHINE.ECEA1EN470UB_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1705@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1705@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'ECEA1EN470UB_0_CAPPRD500W50D630H1120_47UF/50V':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1601@CNCMACHINE.ECEA1EN470UB_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1601@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1601@cncmachine.\ecea1en470ub_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS277@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins277@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins277@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS263@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins263@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins263@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_22PF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS493@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins493@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins493@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_22PF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS369@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins369@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins369@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'GRM033C71C104KE14J_0_WCAP-CSGP_0603_W_100NF':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1773@CNCMACHINE.GRM033C71C104KE14J_0.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1773@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1773@cncmachine.\grm033c71c104ke14j_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'ZENER_BIDI_SMB_NOPOL_TVS':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS849@SMBJ12CA-13-F.ZENER_BIDI.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins849@\smbj12ca-13-f\.\zener_bidi.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins849@\smbj12ca-13-f\.\zener_bidi.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'KP-1608SURCK_LED_KP-1608SURCK_0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2314@KP-1608SURCK.KP-1608SURCK.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2314@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2314@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'KP-1608SURCK_LED_KP-1608SURCK_0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2342@KP-1608SURCK.KP-1608SURCK.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2342@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2342@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'KP-1608SURCK_LED_KP-1608SURCK_0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1065@KP-1608SURCK.KP-1608SURCK.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1065@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1065@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'KP-1608SURCK_LED_KP-1608SURCK_0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1173@KP-1608SURCK.KP-1608SURCK.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1173@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1173@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'KP-1608SURCK_LED_KP-1608SURCK_0603':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS947@KP-1608SURCK.KP-1608SURCK.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins947@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins947@\kp-1608surck\.\kp-1608surck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 '1N4007W-T_SODFL3818X130N_1N4007W-T':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1101@1N4007W-T.1N4007W-T.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1101@\1n4007w-t\.\1n4007w-t.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1101@\1n4007w-t\.\1n4007w-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'MF-MSMF200_FUSER_MF-MSMF200_1812 16V 2.5A':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS863@MF-MSMF200.MF-MSMF200.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins863@\mf-msmf200\.\mf-msmf200.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins863@\mf-msmf200\.\mf-msmf200.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL4 'BLM18SG121TN1D_BEADC1608X65N_BLM18SG121TN1D':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS919@BLM18SG121TN1D.BLM18SG121TN1D.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins919@blm18sg121tn1d.\blm18sg121tn1d.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins919@blm18sg121tn1d.\blm18sg121tn1d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'TBP02R1-381-04BE_CUI_TBP02R1-381-04BE_LIMIT SWITCH':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1719@TBP02R1-381-04BE.TBP02R1-381-04BE.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1719@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1719@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'USBR-B-S-S-O-TH_SAMTEC_USBR-B-S-S-O-TH_USB_TYPEB':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2278@USBR-B-S-S-O-TH.USBR-B-S-S-O-TH.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2278@\usbr-b-s-s-o-th\.\usbr-b-s-s-o-th.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2278@\usbr-b-s-s-o-th\.\usbr-b-s-s-o-th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'TBP02R1-381-02BE_CUI_TBP02R1-381-02BE_TBP02R1-381-02BE':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS877@TBP02R1-381-02BE.TBP02R1-381-02BE.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins877@\tbp02r1-381-02be\.\tbp02r1-381-02be.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins877@\tbp02r1-381-02be\.\tbp02r1-381-02be.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'FFMD-08-X-X-X_SAMTEC_IDMD-08-X-X_FFMD-08-X-X-X':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS309@FFMD-08-X-X-X.FFMD-08-X-X-X.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins309@\ffmd-08-x-x-x\.\ffmd-08-x-x-x.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins309@\ffmd-08-x-x-x\.\ffmd-08-x-x-x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'MSD-1-A_CUI_MSD-1-A_MSD-1-A':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2739@MSD-1-A.MSD-1-A.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2739@\msd-1-a\.\msd-1-a.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2739@\msd-1-a\.\msd-1-a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'TBP02R1-381-04BE_CUI_TBP02R1-381-04BE_X MOTOR':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1567@TBP02R1-381-04BE.TBP02R1-381-04BE.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1567@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1567@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'TBP02R1-381-04BE_CUI_TBP02R1-381-04BE_Y MOTOR':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1687@TBP02R1-381-04BE.TBP02R1-381-04BE.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1687@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1687@\tbp02r1-381-04be\.\tbp02r1-381-04be.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'TBP02R1-381-03BE_CUI_TBP02R1-381-03BE_Z MOTOR':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1585@TBP02R1-381-03BE.TBP02R1-381-03BE.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1585@\tbp02r1-381-03be\.\tbp02r1-381-03be.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1585@\tbp02r1-381-03be\.\tbp02r1-381-03be.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'TMS-101-21-G-S_2_SAMTEC_TMS-101-21-G-S_TMS-101-21-G-S':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS251@CNCMACHINE.TMS-101-21-G-S_2.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins251@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins251@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J26 'TMS-101-21-G-S_2_SAMTEC_TMS-101-21-G-S_TMS-101-21-G-S':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS481@CNCMACHINE.TMS-101-21-G-S_2.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins481@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins481@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J27 'TMS-101-21-G-S_2_SAMTEC_TMS-101-21-G-S_TMS-101-21-G-S':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS383@CNCMACHINE.TMS-101-21-G-S_2.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins383@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins383@cncmachine.\tms-101-21-g-s_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J31 'TMS-101-21-G-S_SAMTEC_TMS-101-21-G-S_TMS-101-21-G-S':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS469@TMS-101-21-G-S.TMS-101-21-G-S.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins469@\tms-101-21-g-s\.\tms-101-21-g-s.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins469@\tms-101-21-g-s\.\tms-101-21-g-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J33 '5-146281-3_TE_5-146281-3_SELECT PIN':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1615@5-146281-3.5-146281-3.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1615@\5-146281-3\.\5-146281-3.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1615@\5-146281-3\.\5-146281-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J34 'ESQ-102-48-L-S_SAMTEC_ESQ-102-48-L-S_FAN 5V':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1673@ESQ-102-48-L-S.ESQ-102-48-L-S.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1673@\esq-102-48-l-s\.\esq-102-48-l-s.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1673@\esq-102-48-l-s\.\esq-102-48-l-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J35 'PJ-035D_CUI_PJ-035D_PJ-035D':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1049@PJ-035D.PJ-035D.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1049@\pj-035d\.\pj-035d.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1049@\pj-035d\.\pj-035d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_IND_CDRH127LDNP-470MC_SUM_33UH':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS891@CDRH127LDNP-470MC.IND.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins891@\cdrh127ldnp-470mc\.\ind.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins891@\cdrh127ldnp-470mc\.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 '6-1879417-7_RESC1508X55N_1K5':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS933@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins933@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins933@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 '6-1879417-7_RESC1508X55N_2K2':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1003@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1003@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1003@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 '6-1879417-7_RESC1508X55N_10K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1017@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1017@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1017@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 '6-1879417-7_RESC1508X55N_1K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2264@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2264@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2264@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 '6-1879417-7_RESC1508X55N_1K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2236@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2236@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2236@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 '6-1879417-7_RESC1508X55N_1K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2402@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2402@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2402@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 '6-1879417-7_RESC1508X55N_1K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2328@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2328@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2328@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 '6-1879417-7_RESC1508X55N_10K':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1759@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1759@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1759@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 '6-1879417-7_RESC1508X55N_3K3':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2711@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2711@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2711@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 '6-1879417-7_RESC1508X55N_3K3':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2697@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2697@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2697@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 '6-1879417-7_RESC1508X55N_3K3':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2645@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2645@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2645@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 '6-1879417-7_RESC1508X55N_3K3':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2725@6-1879417-7.6-1879417-7.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2725@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2725@\6-1879417-7\.\6-1879417-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'A6S-3101-H_A6S3104H_DIP3_X_254':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1737@A6S-3101-H.A6S-3101-H.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1737@\a6s-3101-h\.\a6s-3101-h.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1737@\a6s-3101-h\.\a6s-3101-h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S3 'A6S-3101-H_A6S3104H_DIP3_Y_254':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1787@A6S-3101-H.A6S-3101-H.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1787@\a6s-3101-h\.\a6s-3101-h.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1787@\a6s-3101-h\.\a6s-3101-h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S4 'SKRPACE010_SW_SKRPACE010_4.2X3.3MM':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS351@SKRPACE010.SKRPACE010.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins351@skrpace010.\skrpace010.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins351@skrpace010.\skrpace010.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S5 '500SSP1S1M2REA_SW_500SSP1S1M2REA_SSP1S1M2':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1115@500SSP1S1M2REA.500SSP1S1M2REA.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1115@\500ssp1s1m2rea\.\500ssp1s1m2rea.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1115@\500ssp1s1m2rea\.\500ssp1s1m2rea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'LM2596SX-12NOPB_VREG_LM2596SX-12NOPB_LM2596SX-12NOPB':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1079@LM2596SX-12NOPB.LM2596SX-12NOPB.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1079@\lm2596sx-12nopb\.\lm2596sx-12nopb.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1079@\lm2596sx-12nopb\.\lm2596sx-12nopb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'A4988_DRV8825_A4988':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1631@LIBRARY1.A4988.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1631@library1.\a4988.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1631@library1.\a4988.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'A4988_DRV8825_A4988':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1525@LIBRARY1.A4988.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1525@library1.\a4988.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page3_ins1525@library1.\a4988.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 '74LVC125APW_IC_74LVC125APW_74LVC125APW':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2659@74LVC125APW.74LVC125APW.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2659@\74lvc125apw\.\74lvc125apw.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page5_ins2659@\74lvc125apw\.\74lvc125apw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CH340G_SOIC127P600X180-16N_CH340G':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2194@CH340G.CH340G.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2194@ch340g.\ch340g.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2194@ch340g.\ch340g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'ATMEGA328P-AN_QFP80P900X900X120-32N_ATMEGA328P-AN':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS395@ATMEGA328P-AN.ATMEGA328P-AN.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins395@\atmega328p-an\.\atmega328p-an.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins395@\atmega328p-an\.\atmega328p-an.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR3 'LM1117MPX-33NOPB_VREG_LM1117MPX-33NOPB_LM1117MPX-33NOPB':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS1031@LM1117MPX-33NOPB.LM1117MPX-33NOPB.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins1031@\lm1117mpx-33nopb\.\lm1117mpx-33nopb.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page2_ins1031@\lm1117mpx-33nopb\.\lm1117mpx-33nopb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y5 'ECS-2712-10-30B-RWY-TR_XTAL_ECS-2712-10-30B-RWY-TR_12MHZ 5032 4 PIN':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS2370@ECS-2712-10-30B-RWY-TR.ECS-2712-10-30B-RWY-TR.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins2370@\ecs-2712-10-30b-rwy-tr\.\ecs-2712-10-30b-rwy-tr.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page4_ins2370@\ecs-2712-10-30b-rwy-tr\.\ecs-2712-10-30b-rwy-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y6 'ECS-2712-10-30B-RWY-TR_XTAL_ECS-2712-10-30B-RWY-TR_16MHZ 5032':;
+
+SECTION_NUMBER 1
+ '@CNCMACHINE.SCHEMATIC1(SCH_1):INS291@ECS-2712-10-30B-RWY-TR.ECS-2712-10-30B-RWY-TR.NORMAL(CHIPS)':
+ C_PATH='@cncmachine.schematic1(sch_1):ins291@\ecs-2712-10-30b-rwy-tr\.\ecs-2712-10-30b-rwy-tr.normal\(chips)',
+ P_PATH='@cncmachine.schematic1(sch_1):page1_ins291@\ecs-2712-10-30b-rwy-tr\.\ecs-2712-10-30b-rwy-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
