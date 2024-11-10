@@ -36,8 +36,7 @@ This project is designed using **OrCAD/Allegro v17.4** for schematic and PCB des
 
 ## References
 
-- [Microcontroller Datasheet](link_to_datasheet)
-- [Installation Guide](link_to_installation_guide)
+- [Microcontroller Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 
 ## Contact
 
@@ -51,5 +50,4 @@ For any questions or additional support, feel free to reach out:
 
 ---
 
-> **Note:** Replace the links in the "References" section with specific information relevant to your project.
 
