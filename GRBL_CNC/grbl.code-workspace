@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Admin/Downloads/grbl-master (2)/grbl-master/grbl"
+		},
+		{
+			"name": "GRBL_CNC",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"grbl.h": "c"
+		}
+	}
+}
