@@ -15,6 +15,8 @@ Here are images of the board from different perspectives:
 | **FrontLeft**| ![Front Left View](Image/FrontLeft.jpg)   |
 | **TOP**      | ![Top View](Image/TOP.jpg)                |
 | **BOTTOM**   | ![Bottom View](Image/BOTTOM.jpg)          |
+| **Layout TOP**      | ![Top View](Image/Layout_top.png)                |
+| **Layout BOTTOM**   | ![Bottom View](Image/Layout_bottom.png)          |
 
 
 
