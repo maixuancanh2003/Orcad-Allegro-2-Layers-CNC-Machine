@@ -17,6 +17,10 @@ Here are images of the board from different perspectives:
 | **BOTTOM**   | ![Bottom View](Image/BOTTOM.jpg)          |
 | **Layout TOP**      | ![Top View](Image/Layout_top.png)                |
 | **Layout BOTTOM**   | ![Bottom View](Image/Layout_bottom.png)          |
+| **Machine TOP**   | ![Bottom View](Image/Machine_TOP.jpg)          |
+| **Machine RIGHT**   | ![Bottom View](Image/Machine_Right.jpg)          |
+| **PCB**   | ![Bottom View](Image/PCB.jpg)          |
+| **Result**   | ![Bottom View](Image/Result.png)          |
 
 
 
